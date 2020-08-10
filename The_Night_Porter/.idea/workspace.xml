@@ -37,7 +37,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1597076055593</updated>
-      <workItem from="1597076056187" duration="605000" />
+      <workItem from="1597076056187" duration="3269000" />
     </task>
     <servers />
   </component>
@@ -45,10 +45,26 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="141" y="370" key="SettingsEditor" timestamp="1597076188151">
+    <state width="1238" height="409" key="GridCell.Tab.0.bottom" timestamp="1597080862713">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state x="141" y="370" key="SettingsEditor/0.23.2560.1417@0.23.2560.1417" timestamp="1597076188151" />
+    <state width="1238" height="409" key="GridCell.Tab.0.bottom/0.23.2560.1417@0.23.2560.1417" timestamp="1597080862713" />
+    <state width="1238" height="409" key="GridCell.Tab.0.center" timestamp="1597080862712">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="1238" height="409" key="GridCell.Tab.0.center/0.23.2560.1417@0.23.2560.1417" timestamp="1597080862712" />
+    <state width="1238" height="409" key="GridCell.Tab.0.left" timestamp="1597080862712">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="1238" height="409" key="GridCell.Tab.0.left/0.23.2560.1417@0.23.2560.1417" timestamp="1597080862712" />
+    <state width="1238" height="409" key="GridCell.Tab.0.right" timestamp="1597080862712">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="1238" height="409" key="GridCell.Tab.0.right/0.23.2560.1417@0.23.2560.1417" timestamp="1597080862712" />
+    <state x="141" y="370" key="SettingsEditor" timestamp="1597079525076">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="141" y="370" key="SettingsEditor/0.23.2560.1417@0.23.2560.1417" timestamp="1597079525076" />
     <state x="305" y="348" width="670" height="676" key="search.everywhere.popup" timestamp="1597076193827">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
