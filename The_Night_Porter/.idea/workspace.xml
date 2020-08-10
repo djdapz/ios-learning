@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="bbc450e6-c194-467e-a00e-7b9168429786" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,8 +17,10 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="OBJC.PRESERVED_TARGET_SELECTION" value="The Night Porter" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunManager">
@@ -37,7 +42,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1597076055593</updated>
-      <workItem from="1597076056187" duration="3269000" />
+      <workItem from="1597076056187" duration="7191000" />
     </task>
     <servers />
   </component>
@@ -45,29 +50,41 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1238" height="409" key="GridCell.Tab.0.bottom" timestamp="1597080862713">
+    <state x="400" y="454" key="#com.intellij.ide.util.MemberChooser" timestamp="1597085781233">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state width="1238" height="409" key="GridCell.Tab.0.bottom/0.23.2560.1417@0.23.2560.1417" timestamp="1597080862713" />
-    <state width="1238" height="409" key="GridCell.Tab.0.center" timestamp="1597080862712">
+    <state x="400" y="454" key="#com.intellij.ide.util.MemberChooser/0.23.2560.1417@0.23.2560.1417" timestamp="1597085781233" />
+    <state x="378" y="485" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1597085587105">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state width="1238" height="409" key="GridCell.Tab.0.center/0.23.2560.1417@0.23.2560.1417" timestamp="1597080862712" />
-    <state width="1238" height="409" key="GridCell.Tab.0.left" timestamp="1597080862712">
+    <state x="378" y="485" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.2560.1417@0.23.2560.1417" timestamp="1597085587105" />
+    <state width="1238" height="259" key="GridCell.Tab.0.bottom" timestamp="1597085664295">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state width="1238" height="409" key="GridCell.Tab.0.left/0.23.2560.1417@0.23.2560.1417" timestamp="1597080862712" />
-    <state width="1238" height="409" key="GridCell.Tab.0.right" timestamp="1597080862712">
+    <state width="1238" height="259" key="GridCell.Tab.0.bottom/0.23.2560.1417@0.23.2560.1417" timestamp="1597085664295" />
+    <state width="1238" height="259" key="GridCell.Tab.0.center" timestamp="1597085664294">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state width="1238" height="409" key="GridCell.Tab.0.right/0.23.2560.1417@0.23.2560.1417" timestamp="1597080862712" />
+    <state width="1238" height="259" key="GridCell.Tab.0.center/0.23.2560.1417@0.23.2560.1417" timestamp="1597085664294" />
+    <state width="1238" height="259" key="GridCell.Tab.0.left" timestamp="1597085664294">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="1238" height="259" key="GridCell.Tab.0.left/0.23.2560.1417@0.23.2560.1417" timestamp="1597085664294" />
+    <state width="1238" height="259" key="GridCell.Tab.0.right" timestamp="1597085664294">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="1238" height="259" key="GridCell.Tab.0.right/0.23.2560.1417@0.23.2560.1417" timestamp="1597085664294" />
     <state x="141" y="370" key="SettingsEditor" timestamp="1597079525076">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
     <state x="141" y="370" key="SettingsEditor/0.23.2560.1417@0.23.2560.1417" timestamp="1597079525076" />
-    <state x="305" y="348" width="670" height="676" key="search.everywhere.popup" timestamp="1597076193827">
+    <state x="263" y="349" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1597085083204">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state x="305" y="348" width="670" height="676" key="search.everywhere.popup/0.23.2560.1417@0.23.2560.1417" timestamp="1597076193827" />
+    <state x="263" y="349" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.23.2560.1417@0.23.2560.1417" timestamp="1597085083204" />
+    <state x="305" y="348" width="670" height="676" key="search.everywhere.popup" timestamp="1597085648959">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="305" y="348" width="670" height="676" key="search.everywhere.popup/0.23.2560.1417@0.23.2560.1417" timestamp="1597085648959" />
   </component>
 </project>
