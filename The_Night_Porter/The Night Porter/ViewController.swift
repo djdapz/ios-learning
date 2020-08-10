@@ -46,11 +46,30 @@ class ViewController: UIViewController, UITableViewDataSource, UITableViewDelega
                     "Empty trash",
                     "Check pipes",
                     "Document ~spooky~ happenings",
+                    "Check all windows",
+                    "Check all doors",
+                    "Check boiler fuel",
+                    "Check mailbox",
+                    "Empty trash",
+                    "Check pipes",
+                    "Document ~spooky~ happenings",
                 ]
         ),
         TaskSection(
                 title: "Weekly Tasks",
                 tasks: [
+                    "Check inside all cabins",
+                    "Flush all lavatories in cabins",
+                    "Walk perimeter of property",
+                    "Check inside all cabins",
+                    "Flush all lavatories in cabins",
+                    "Walk perimeter of property",
+                    "Check inside all cabins",
+                    "Flush all lavatories in cabins",
+                    "Walk perimeter of property",
+                    "Check inside all cabins",
+                    "Flush all lavatories in cabins",
+                    "Walk perimeter of property",
                     "Check inside all cabins",
                     "Flush all lavatories in cabins",
                     "Walk perimeter of property"
@@ -59,6 +78,18 @@ class ViewController: UIViewController, UITableViewDataSource, UITableViewDelega
         TaskSection(
                 title: "Monthly Tasks",
                 tasks: [
+                    "Test security alarm",
+                    "Test motion detector",
+                    "Test smoke alarm",
+                    "Test security alarm",
+                    "Test motion detector",
+                    "Test smoke alarm",
+                    "Test security alarm",
+                    "Test motion detector",
+                    "Test smoke alarm",
+                    "Test security alarm",
+                    "Test motion detector",
+                    "Test smoke alarm",
                     "Test security alarm",
                     "Test motion detector",
                     "Test smoke alarm"
@@ -98,7 +129,7 @@ class ViewController: UIViewController, UITableViewDataSource, UITableViewDelega
     }
 
     func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
-        let cell = UITableViewCell()
+        let cell = tableView.dequeueReusableCell(withIdentifier: "normalCell", for: indexPath)
         cell.textLabel?.text = tasks[indexPath.section].tasks[indexPath.row]
         return cell
     }
